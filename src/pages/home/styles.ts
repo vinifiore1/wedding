@@ -28,7 +28,7 @@ export const TextImgHome = styled.span`
   justify-content: center;
   width: 100%;
   height: 600px;
-  font-family: "Hellstand", sans-serif;
+  font-family: "Hellstand";
   font-size: 100px;
   p {
     margin: 0;
@@ -63,7 +63,7 @@ export const TextContainerTimer = styled.span<IPropsTextTimer>`
   margin-bottom: 40px;
   text-transform: none;
   color: rgb(33, 33, 33);
-  font-family: "Helvetica 55 Roman", sans-serif;
+  font-family: "Helvetica 55 Roman";
   text-align: center;
   text-transform: ${(props) => (props.uppercase ? "uppercase" : "")};
 `;
@@ -79,7 +79,7 @@ export const ConterDownContainer = styled.div<IPropsTextTimer>`
   padding: 0px 24px;
   transform: translateY(-50%);
   text-align: center;
-  font-family: "Helvetica 55 Roman", sans-serif;
+  font-family: "Helvetica 55 Roman";
   font-size: 26px;
   height: 56px;
   width: 84px;
@@ -121,7 +121,7 @@ export const TextWelcomeMain = styled.span`
   letter-spacing: normal;
   text-align: center;
   color: #212121;
-  font-family: "Hellstand", sans-serif;
+  font-family: "Hellstand";
   text-transform: none;
   line-height: normal;
   padding: 20px 15px;

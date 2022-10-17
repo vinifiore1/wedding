@@ -15,7 +15,7 @@ export const HeaderContainer = styled.div`
 export const LogoContainer = styled.div`
   text-align: center;
   text-decoration: none;
-  font-family: "Hellstand", sans-serif;
+  font-family: "Hellstand";
   color: rgb(33, 33, 33);
   font-size: 32px;
   min-width: 150px;
@@ -30,7 +30,7 @@ export const Menucontainer = styled.div`
 
 export const MenuItem = styled.a`
   cursor: pointer;
-  font-family: "Helvetica 55 Roman", sans-serif;
+  font-family: "Helvetica 55 Roman";
   font-size: 12px;
   text-transform: uppercase;
   color: rgb(33, 33, 33);
