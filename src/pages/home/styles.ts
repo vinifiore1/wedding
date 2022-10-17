@@ -81,8 +81,8 @@ export const ConterDownContainer = styled.div<IPropsTextTimer>`
   text-align: center;
   font-family: "Helvetica 55 Roman", sans-serif;
   font-size: 26px;
-  min-height: 56px;
-  min-width: 84px;
+  max-height: 56px;
+  max-width: 84px;
   text-transform: uppercase;
   letter-spacing: 1px;
   color: rgb(255, 255, 255);
