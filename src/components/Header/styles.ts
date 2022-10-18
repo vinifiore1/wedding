@@ -30,7 +30,7 @@ export const Menucontainer = styled.div`
 
 export const MenuItem = styled.a`
   cursor: pointer;
-  font-family: "Helvetica 55 Roman";
+  font-family: "Pragmatica-ExtraLight";
   font-size: 12px;
   text-transform: uppercase;
   color: rgb(33, 33, 33);

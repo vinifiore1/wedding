@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Hellstand";
+  src: local("Hellstand"), url(fonts/Hellstand.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "NimbusSansNovusT-UltraLight";
+  src: local("NimbusSansNovusT-UltraLight"),
+    url(fonts/NimbusSansNovusT-UltraLight.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Pragmatica-ExtraLight";
+  src: local("Pragmatica-ExtraLight"),
+    url(fonts/Pragmatica-ExtraLight.ttf) format("truetype");
+}

@@ -63,7 +63,7 @@ export const TextContainerTimer = styled.span<IPropsTextTimer>`
   margin-bottom: 40px;
   text-transform: none;
   color: rgb(33, 33, 33);
-  font-family: "Helvetica 55 Roman";
+  font-family: "Pragmatica-ExtraLight";
   text-align: center;
   text-transform: ${(props) => (props.uppercase ? "uppercase" : "")};
 `;
@@ -79,7 +79,7 @@ export const ConterDownContainer = styled.div<IPropsTextTimer>`
   padding: 0px 24px;
   transform: translateY(-50%);
   text-align: center;
-  font-family: "Helvetica 55 Roman";
+  font-family: "Pragmatica-ExtraLight";
   font-size: 26px;
   height: 56px;
   width: 84px;
@@ -135,7 +135,7 @@ export const TextWelcomeSub = styled.span`
   line-height: 1.5;
   letter-spacing: 1px;
   text-align: center;
-  font-family: "Helvetica 55 Roman";
+  font-family: "Pragmatica-ExtraLight";
   font-style: normal;
   color: rgb(33, 33, 33);
   text-transform: none;
@@ -160,6 +160,7 @@ export const TextContainer = styled.div`
 `;
 
 export const TextInfo = styled.span`
+  font-family: "Pragmatica-ExtraLight";
   width: 1080px;
   letter-spacing: normal;
   color: #212121;
