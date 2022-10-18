@@ -109,7 +109,7 @@ export const TextWelcomeContainer = styled.div`
   justify-content: center;
   height: 100%;
   width: 98%;
-  min-height: 78px;
+  height: 78px;
   flex-direction: column;
 `;
 
